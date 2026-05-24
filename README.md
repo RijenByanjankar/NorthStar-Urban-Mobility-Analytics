@@ -1,4 +1,3 @@
-# NorthStar-Analytics
 # NorthStar Urban Mobility and Logistics Analytics Project
 
 ## Overview
